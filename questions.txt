@@ -19,6 +19,6 @@ BBQ
 Aladdin
 
 4. What is your favorite animal?
-
+Tiger
 
 5. What is your favorite programming language? (Hint: You can always say Python!!)
